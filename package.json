@@ -1,0 +1,24 @@
+{
+  "name": "inverted-index",
+  "version": "1.0.0",
+  "description": "Inverted index implementation and a user interface to search using inverted index implementation that returns a list of files containing the input query term/ terms.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhasn/inverted-index.git"
+  },
+  "keywords": [
+    "inverted",
+    "index"
+  ],
+  "author": "Medha S N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhasn/inverted-index/issues"
+  },
+  "homepage": "https://github.com/medhasn/inverted-index#readme"
+}
