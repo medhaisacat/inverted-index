@@ -23,4 +23,5 @@ Output would be:
 file4
 
 ## Future work
+Rewrite to use async/await and promises
 Modify to recursively read files off a directory to populate the inverted index.
